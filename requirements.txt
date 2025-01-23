@@ -1,0 +1,17 @@
+Pillow
+
+
+├── main.py                        # Arquivo principal para iniciar o aplicativo
+├── helpers/                       # Diretório para funções auxiliares
+│   ├── roll_dice.py               # Funções para rolar dados e manipular o histórico
+│
+├── assets/                        # Diretório para imagens de dados
+│   ├── d4.png
+│   ├── d6.png
+│   ├── d8.png
+│   ├── d10.png
+│   ├── d20.png
+│   ├── d100.png
+│
+├── README.md                      # Documentação do projeto
+└── requirements.txt               # Dependências do projeto (ex.: Pillow)
